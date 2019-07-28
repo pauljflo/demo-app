@@ -1,2 +1,3 @@
 <?php 
-echo "HELLO SRES the bellow is insecure!"; ?>
+echo "HELLO SRES the below is insecure!"; 
+phpinfo(); ?>
