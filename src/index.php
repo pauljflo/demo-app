@@ -1,3 +1,3 @@
 <?php 
 $hostname = gethostname();
-echo "Running on $hostname"; ?>
+echo "Running on docker host $hostname"; ?>
