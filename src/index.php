@@ -1,2 +1,3 @@
 <?php 
-echo "Running on "+gethostname();; ?>
+$hostname = gethostname();
+echo "Running on $hostname"; ?>
