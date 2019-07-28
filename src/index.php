@@ -1,3 +1,3 @@
 <?php 
 echo "HELLO SRES the below is insecure!"; 
-phpinfo(); ?>
+echo $_HOSTNAME ?>
