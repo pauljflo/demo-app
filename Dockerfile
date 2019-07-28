@@ -1,4 +1,4 @@
-FROM pauljflo:base
+FROM pauljflo/base
 
 RUN mkdir /code
 COPY src/ /code/
